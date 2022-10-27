@@ -15,4 +15,4 @@
 ![Puthon](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-##Ultimamente, tenho me dedicado integralmente em projetos front-end com renderização de listas, filtros e renderização condicional.
+##Sou apaixonado por tecnologia. Ultimamente, tenho me dedicado integralmente em projetos front-end com renderização de listas, filtros e renderização condicional.
