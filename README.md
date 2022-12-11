@@ -17,5 +17,3 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-##Sou apaixonado por tecnologia. Atualmente, estou 100% dedicado em projetos front-end com filtros, renderização de lista e renderização condicional.
